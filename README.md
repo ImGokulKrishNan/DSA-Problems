@@ -128,3 +128,29 @@ Here are the time complexities associated with common data structures:
 - Deletion of an element: O(log n)
 Simplify the expression: Simplify the mathematical expression by removing constants, lower-order terms, and insignificant factors. Focus on the most dominant term that represents the growth rate of the algorithm.
 Determine the time complexity notation: Use Big O notation to express the condensed expression, where Big O indicates the time complexity's upper bound. O(1) stands for constant time, O(n) for linear time, O(n^2) for quadratic time, and so forth are common notations.
+
+### What is Data Structure?
+
+The data structure name indicates itself that organizing the data in memory.
+
+### Types of Data Structures
+
+There are two types of data structures:
+
+- Primitive data structure
+- Non-primitive data structure
+
+**Primitive Data structure**
+
+The primitive data structures are primitive data types. The int, char, float, double, and pointer are the primitive data structures that can hold a single value.
+
+**Non-Primitive Data structure**
+
+The non-primitive data structure is divided into two types:
+
+- Linear data structure
+- Non-linear data structure
+
+**Linear Data Structure**
+
+The arrangement of data in a sequential manner is known as a linear data structure. The data structures used for this purpose are Arrays, Linked list, Stacks, and Queues. In these data structures, one element is connected to only one another element in a linear form.
