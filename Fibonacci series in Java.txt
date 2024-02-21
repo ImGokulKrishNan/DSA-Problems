@@ -1,0 +1,39 @@
+class Main {
+public static void main(String[] args) {
+int n=20;
+int F1=1,F2=1;
+System.out.println("F1="+F1);
+System.out.println("F2="+F2);
+       
+            for(int j=3;j<=n;j++){
+                int F3;
+                F3=F1+F2;
+            System.out.println("F"+j+"="+F3+"  ");
+                    F1=F2;
+                    F2=F3;
+                }
+ 
+}
+    
+    }
+
+```F1=1
+F2=1
+F3=2  
+F4=3  
+F5=5  
+F6=8  
+F7=13  
+F8=21  
+F9=34  
+F10=55  
+F11=89  
+F12=144  
+F13=233  
+F14=377  
+F15=610  
+F16=987  
+F17=1597  
+F18=2584  
+F19=4181  
+F20=6765 ```
