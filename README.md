@@ -470,6 +470,79 @@ Some important and most common problems of backtracking algorithms, that you mus
 
 ### 7. [Dynamic Programming](https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/)
 
+
+
+![Dynamic Programming](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Dynamic-Programming-1-1024x512.png)
+
+Dynamic Programming
+
+To learn more about dynamic programming and practice some interesting problems related to it, refer to the following articles:
+
+- [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoizatation/)
+- [Optimal Substructure Property](https://www.geeksforgeeks.org/dynamic-programming-set-2-optimal-substructure-property/)
+- [Overlapping Subproblems Property](https://www.geeksforgeeks.org/dynamic-programming-set-1/)
+- [How to solve a Dynamic Programming Problem?](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
+- [Bitmasking and Dynamic Programming | Set 1](https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/)
+- [Bitmasking and Dynamic Programming | Set-2 (TSP)](https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/)
+- [Digit DP | Introduction](https://www.geeksforgeeks.org/digit-dp-introduction/)
+
+### [8. Pattern Searching](https://www.geeksforgeeks.org/introduction-to-pattern-searching-data-structure-and-algorithm-tutorial/)
+
+The Pattern Searching algorithms are sometimes also referred to as String Searching Algorithms and are considered as a part of the String algorithms. These algorithms are useful in the case of searching a string within another string.
+
+![Pattern Searching Algorithms](https://media.geeksforgeeks.org/wp-content/uploads/20220809155713/image.png)
+
+### [9. Mathematical Algorithms](https://www.geeksforgeeks.org/mathematical-algorithms/)
+
+These algorithms are designed to solve Mathematical and Number Theory problems. They requires in-depth knowledge of different mathematical concepts like
+
+- GCD and LCM
+- Prime Factorization and Divisors
+- Fibonacci Numbers
+- Catalan Numbers
+- Modular Arithmetic
+- Euler Totient Function
+- nCr Computations
+- Set Theory
+- Factorial
+- Prime numbers and Primality Tests
+- Sieve Algorithms, etc.
+
+### [10. Geometric Algorithms](https://www.geeksforgeeks.org/geometric-algorithms/)
+
+These algorithms are designed to solve Geometric Problems. They requires in-depth knowledge of different mathematical concepts like:
+
+- Lines
+- Triangle
+- Rectangle
+- Square
+- Circle
+- 3D Objects
+- Quadilateral
+- Polygon & Convex Hull
+
+  
+
+****For Example****:
+
+- [Comparing Slopes of two lines](https://www.geeksforgeeks.org/program-find-slope-line/)
+- [Finding Equation of a plane](https://www.geeksforgeeks.org/program-to-find-x-y-and-z-intercepts-of-a-plane/)
+
+### [11. Bitwise Algorithms](https://www.geeksforgeeks.org/introduction-to-bitwise-algorithms-data-structures-and-algorithms-tutorial/)
+
+The ****Bitwise Algorithms**** is used to perform operations at the bit-level or to manipulate bits in different ways. The bitwise operations are found to be much faster and are sometimes used to improve the efficiency of a program.
+
+****For example****: To check if a number is even or odd. This can be easily done by using Bitwise-AND(&) operator. If the last bit of the operator is set than it is ODD otherwise it is EVEN. Therefore, if ****num & 1**** not equals to zero than num is ODD otherwise it is EVEN.
+
+### [12. Randomized Algorithms](https://www.geeksforgeeks.org/randomized-algorithms/)
+
+An algorithm that uses random numbers to decide what to do next anywhere in its logic is called Randomized Algorithm. For example, in Randomized Quick Sort, we use a random number to pick the next pivot (or we randomly shuffle the array). Typically, this randomness is used to reduce time complexity or space complexity in other standard algorithms.
+
+### [13. Branch and Bound Algorithm](https://www.geeksforgeeks.org/introduction-to-branch-and-bound-data-structures-and-algorithms-tutorial/)
+
+****Branch and bound**** is an algorithm design paradigm which is generally used for solving combinatorial optimization problems. These problems are typically exponential in terms of time complexity and may require exploring all possible permutations in worst case. The Branch and Bound Algorithm technique solves these problems relatively quickly.
+
+
 Another crucial algorithm is dynamic programming. Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for the same inputs, we can optimize it using Dynamic Programming. 
 
 > The main concept of the [Dynamic Programming algorithm](https://www.geeksforgeeks.org/dynamic-programming/) is to use the previously calculated result to avoid repeated calculations of the same subtask which helps in reducing the time complexity. 
