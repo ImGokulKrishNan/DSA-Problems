@@ -545,4 +545,4 @@ An algorithm that uses random numbers to decide what to do next anywhere in its 
 
 Another crucial algorithm is dynamic programming. Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for the same inputs, we can optimize it using Dynamic Programming. 
 
-> The main concept of the [Dynamic Programming algorithm](https://www.geeksforgeeks.org/dynamic-programming/) is to use the previously calculated result to avoid repeated calculations of the same subtask which helps in reducing the time complexity. 
+> The main concept of the [Dynamic Programming algorithm](https://www.geeksforgeeks.org/dynamic-programming/) is to use the previously calculated result to avoid repeated calculations of the same subtask which helps in reducing the time complexity . 
