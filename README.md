@@ -524,7 +524,6 @@ These algorithms are designed to solve Geometric Problems. They requires in-dept
 - Quadilateral
 - Polygon & Convex Hull
 
-  
 
 ****For Example****:
 
