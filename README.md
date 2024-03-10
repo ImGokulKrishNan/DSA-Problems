@@ -169,6 +169,7 @@ The most basic yet important data structure is the array. It is a linear data st
 
 Array Data Structure
 
+
 To learn more about arrays, refer to the article “[****Introduction to Arrays****](https://www.geeksforgeeks.org/introduction-to-arrays/)“.
 
 Here are some topics about array which you must learn:
