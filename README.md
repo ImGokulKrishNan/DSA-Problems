@@ -53,7 +53,6 @@ Express the count as a function of the input size: Create a mathematical express
 Here are the time complexities associated with common data structures:
 
 ### Arrays:
-
 - Access: O(1)
 - Search: O(n)
 - Insertion (at the end): O(1)
@@ -62,7 +61,6 @@ Here are the time complexities associated with common data structures:
 - Deletion (from the beginning or middle): O(n)
 
 ### Linked Lists:
-
 - Access: O(n)
 - Search: O(n)
 - Insertion (at the beginning): O(1)
