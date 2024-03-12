@@ -85,13 +85,11 @@ Here are the time complexities associated with common data structures:
 - Deletion (from the middle): O(n)
 
 ### Stacks:
-
 - Push: O(1)
 - Pop: O(1)
 - Peek: O(1)
 
 ### Queues:
-
 - Enqueue: O(1)
 - Dequeue: O(1)
 - Peek: O(1)
