@@ -468,8 +468,6 @@ Some important and most common problems of backtracking algorithms, that you mus
 
 ### 7. [Dynamic Programming](https://www.geeksforgeeks.org/introduction-to-dynamic-programming-data-structures-and-algorithm-tutorials/)
 
-
-
 ![Dynamic Programming](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Dynamic-Programming-1-1024x512.png)
 
 Dynamic Programming
