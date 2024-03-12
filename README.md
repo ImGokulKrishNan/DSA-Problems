@@ -75,7 +75,6 @@ Here are the time complexities associated with common data structures:
 - Deletion (from the middle): O(n)
 
 ### Doubly Linked List:
-
 - Accessing an element by index: O(n)
 - Searching for an element: O(n)
 - Insertion (at the beginning): O(1)
