@@ -1,8 +1,5 @@
 /*
-
-find the frequency of each element in the array
-
-
+find the frequency of each element in the array or Counting frequencies of array elements
 */
 
 import java.util.*;
