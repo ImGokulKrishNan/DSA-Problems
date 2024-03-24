@@ -296,6 +296,7 @@ Types of Heap Data Structure
 
 What is Hashing
 
+
 ****Related posts:****
 
 - [Introduction to Hash](https://www.geeksforgeeks.org/introduction-to-hashing-data-structure-and-algorithm-tutorials/)
