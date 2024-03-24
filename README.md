@@ -517,8 +517,7 @@ These algorithms are designed to solve Geometric Problems. They requires in-dept
 - Quadilateral
 - Polygon & Convex Hull
 
-
-****For Example****:
+****r Example****:
 
 - [Comparing Slopes of two lines](https://www.geeksforgeeks.org/program-find-slope-line/)
 - [Finding Equation of a plane](https://www.geeksforgeeks.org/program-to-find-x-y-and-z-intercepts-of-a-plane/)
