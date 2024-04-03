@@ -539,6 +539,9 @@ An algorithm that uses random numbers to decide what to do next anywhere in its 
 Backtracking Algorithms
 Backtracking algorithms are like problem-solving strategies that help explore different options to find the best solution. They work by trying out different paths and if one doesn’t work, they backtrack and try another until they find the right one. It’s like solving a puzzle by testing different pieces until they fit together perfectly.
 
+Sorting
+In bubble sort algorithm, array is traversed from first element to last element. Here, current element is compared with the next element. If current element is greater than the next element, it is swapped.
+
 Another crucial algorithm is dynamic programming. Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for the same inputs, we can optimize it using Dynamic Programming. 
 
 > The main concept of the [Dynamic Programming algorithm](https://www.geeksforgeeks.org/dynamic-programming/) is to use the previously calculated result to avoid repeated calculations of the same subtask which helps in reducing the time complexity . 
