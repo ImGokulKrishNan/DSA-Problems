@@ -152,7 +152,32 @@ The arrangement of data in a sequential manner is known as a linear data structu
 
 
 
+### Approaches of Algorithm
 
+**The following are the approaches used after considering both the theoretical and practical importance of designing an algorithm:**
+
+- **Brute force algorithm:** The general logic structure is applied to design an algorithm. It is also known as an exhaustive search algorithm that searches all the possibilities to provide the required solution. Such algorithms are of two types:
+    1. **Optimizing:** Finding all the solutions of a problem and then take out the best solution or if the value of the best solution is known then it will terminate if the best solution is known.
+    2. **Sacrificing:** As soon as the best solution is found, then it will stop.
+- **Divide and conquer:** It is a very implementation of an algorithm. It allows you to design an algorithm in a step-by-step variation. It breaks down the algorithm to solve the problem in different methods. It allows you to break down the problem into different methods, and valid output is produced for the valid input. This valid output is passed to some other function.
+- **Greedy algorithm:** It is an algorithm paradigm that makes an optimal choice on each iteration with the hope of getting the best solution. It is easy to implement and has a faster execution time. But, there are very rare cases in which it provides the optimal solution.
+- **Dynamic programming:** It makes the algorithm more efficient by storing the intermediate results. It follows five different steps to find the optimal solution for the problem:
+    1. It breaks down the problem into a subproblem to find the optimal solution.
+    2. After breaking down the problem, it finds the optimal solution out of these subproblems.
+    3. Stores the result of the subproblems is known as memorization.
+    4. Reuse the result so that it cannot be recomputed for the same subproblems.
+    5. Finally, it computes the result of the complex program.
+- **Branch and Bound Algorithm:** The branch and bound algorithm can be applied to only integer programming problems. This approach divides all the sets of feasible solutions into smaller subsets. These subsets are further evaluated to find the best solution.
+- **Randomized Algorithm:** As we have seen in a regular algorithm, we have predefined input and required output. Those algorithms that have some defined set of inputs and required output, and follow some described steps are known as deterministic algorithms. What happens that when the random variable is introduced in the randomized algorithm?. In a randomized algorithm, some random bits are introduced by the algorithm and added in the input to produce the output, which is random in nature. Randomized algorithms are simpler and efficient than the deterministic algorithm.
+- **Backtracking:** Backtracking is an algorithmic technique that solves the problem recursively and removes the solution if it does not satisfy the constraints of a problem.
+
+The major categories of algorithms are given below:
+
+- **Sort:** Algorithm developed for sorting the items in a certain order.
+- **Search:** Algorithm developed for searching the items inside a data structure.
+- **Delete:** Algorithm developed for deleting the existing element from the data structure.
+- **Insert:** Algorithm developed for inserting an item inside a data structure.
+- **Update:** Algorithm developed for updating the existing element inside a data structure.
 
 ### 1. [Array](https://www.geeksforgeeks.org/array-data-structure/)
 
