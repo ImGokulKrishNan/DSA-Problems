@@ -5,7 +5,7 @@ public class BinarySearch {
         int[] arr={1,2,3,4,6,7,8};
         int target=6;
         int left=0;
-        int right=arr.length-1;.
+        int right=arr.length-1;
         int mid=left+(right-left)/2;
         for (int i = 0; i <= arr.length-1 ; i++) {
 
