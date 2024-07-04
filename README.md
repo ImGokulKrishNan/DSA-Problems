@@ -9,6 +9,7 @@ Therefore Algorithm refers to a sequence of finite steps to solve a particular p
 
 ****Algorithms can be simple and complex depending on what you want to achieve.****
 
+
 ![image](https://github.com/ImGokulKrishNan/DSA-Problems/assets/87110207/df3cd5b3-381d-42be-8538-5105b5d5f260)
 
 
