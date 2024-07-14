@@ -5,11 +5,9 @@ class Solution {
         for(int i=0;i< n.length;i++){
             if(n[i]!=val){
                 n[count++]=n[i];
-            
+
             }
-
         }
-
         return count;
     }
 }
