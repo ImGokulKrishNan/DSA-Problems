@@ -33,8 +33,6 @@ public class makezeroinarray {
 
             }
         }
-
-
     }
     static int[][] makezero(int[][] arr,int row,int col){
         for (int i = 0; i <=arr.length-1 ; i++) {
