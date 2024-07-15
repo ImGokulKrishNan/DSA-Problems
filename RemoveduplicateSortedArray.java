@@ -22,6 +22,4 @@ public class RemoveduplicateSortedArray {
         }
         return i+1;
     }
-
-
          }
