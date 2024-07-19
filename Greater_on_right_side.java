@@ -1,4 +1,4 @@
-ublic class Next_greatest_elements {
+public class Next_greatest_elements {
     public static void main(String[] args) {
         int[] array = {16, 17, 4, 3, 5, 2};
         replaceWithNextGreatest(array);
