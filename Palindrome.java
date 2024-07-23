@@ -1,24 +1,23 @@
+package Maths;
+
 public class Palindrome {
     public static void main(String[] args) {
-        int n = -121;
-
-        System.out.println(find(n));
-
+        int n=5445;
+            if (pol(n)) {
+                System.out.println("true");
+            }
     }
-    static boolean find(int n) {
+    static boolean pol(int n) {
+
+        int temp = n;
+        int r = 0;
         int sum = 0;
-        int temp=n;
         while (n > 0) {
-            
-            int r = n % 10;
+            r = n % 10;
             sum = (sum * 10) + r;
             n = n / 10;
+            System.out.println("sum :"+sum+" | "+"r :"+r+" |"+"n :"+n);
         }
-        if(sum-temp==0){
-
-            return true;
-        }
-        return false;
-
+        return sum == temp ? true : false;
     }
 }
