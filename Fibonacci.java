@@ -1,13 +1,16 @@
+package Maths;
+
 public class Fibonacci {
     public static void main(String[] args) {
-        int n=5;
-        System.out.println(fibi(n));
-
-    }
-    static int  fibi(int n){
-        if(n<2){
-            return n;
+       int n=10;
+        for (int i = 0; i < n ; i++) {
+            System.out.print (fibi(i)+" ");
         }
-        return  fibi(n-1)+fibi(n-2);
+    }
+    static int fibi(int n){
+        if(n <= 1)
+            return n;
+
+        return fibi(n-1)+fibi(n-2);
     }
 }
