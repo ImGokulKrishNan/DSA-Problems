@@ -483,23 +483,6 @@ In Recursion, you can follow the below articles/links to get the most out of it:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 As mentioned earlier, the Backtracking algorithm is derived from the Recursion algorithm, with the option to revert if a recursive solution fails, i.e. in case a solution fails, the program traces back to the moment where it failed and builds on another solution. So basically it tries out all the possible solutions and finds the correct one.
 
 > [****Backtracking****](http://www.geeksforgeeks.org/backtracking-algorithms/) is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time 
@@ -554,7 +537,22 @@ These algorithms are designed to solve Mathematical and Number Theory problems. 
 
 ### [10. Geometric Algorithms](https://www.geeksforgeeks.org/geometric-algorithms/)
 
-These algorithms are designed to solve Geometric Problems. They requires in-depth knowledge of different mathematical concepts like:
+These algorithms are designed to solve Geometric Problems. They requires in-depth knowledge of different mathematical concepts like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Lines
 - Triangle
